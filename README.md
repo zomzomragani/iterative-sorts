@@ -1,2 +1,2 @@
-# iterative-sorts
+# algorithms-exercises
 Created with CodeSandbox
